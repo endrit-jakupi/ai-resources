@@ -7,7 +7,6 @@ A curated collection of articles, papers, tools, and guides on AI, machine learn
 - [Building AI Agents](#building-ai-agents)
 - [Multi-Agent Systems](#multi-agent-systems)
 - [Prompt Engineering](#prompt-engineering)
-- [Papers](#papers)
 - [Courses & Tutorials](#courses--tutorials)
 
 ## Building AI Agents
@@ -20,10 +19,6 @@ A curated collection of articles, papers, tools, and guides on AI, machine learn
 *Coming soon*
  
 ## Prompt Engineering
- 
-*Coming soon*
- 
-## Papers
  
 *Coming soon*
  
