@@ -16,15 +16,19 @@ A curated collection of articles, papers, tools, and guides on AI, machine learn
 
 ## Multi-Agent Systems
  
-*Coming soon*
+- [Microsoft Agent Framework](https://github.com/microsoft/agent-framework): Microsoft's framework for multi-agent workflows, built as the successor to AutoGen and Semantic Kernel.
  
 ## Prompt Engineering
- 
-*Coming soon*
+
+- [What is prompt engineering?](https://www.ibm.com/think/topics/prompt-engineering) by IBM: Overview of core techniques like zero-shot, few-shot, and chain-of-thought prompting.
  
 ## Courses & Tutorials
- 
-*Coming soon*
+
+- [MIT 6.S191: Introduction to Deep Learning](https://introtodeeplearning.com): Deep learning foundations and applications.
+- [DeepLearning.AI Courses](https://www.deeplearning.ai/courses): Focused courses on current generative AI engineering techniques.
+- [Hugging Face Agents Course](https://huggingface.co/learn/agents-course/unit0/introduction): Free, hands-on course on building agents with LangGraph, LlamaIndex, and smolagents.
+- [LangChain Academy](https://academy.langchain.com): Official self-paced courses on LangGraph and agent orchestration.
+- [Neural Networks: Zero to Hero](https://karpathy.ai/zero-to-hero.html) by Andrej Karpathy: Builds neural networks from scratch, from backpropagation up to GPT.
  
 ## Contributing
  
