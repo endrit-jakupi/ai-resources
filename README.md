@@ -9,7 +9,7 @@ A curated collection of articles, papers, tools, and guides on AI, machine learn
 - [Prompt Engineering](#prompt-engineering)
 - [Papers](#papers)
 - [Courses & Tutorials](#courses--tutorials)
-- 
+
 ## Building AI Agents
 
 - [Building Effective Agents](https://www.anthropic.com/engineering/building-effective-agents): Anthropic on workflow vs agent patterns, from simple chains to full autonomy.
