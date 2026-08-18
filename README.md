@@ -17,6 +17,7 @@ A curated collection of articles, papers, tools, and guides on AI, machine learn
 ## Multi-Agent Systems
  
 - [Microsoft Agent Framework](https://github.com/microsoft/agent-framework): Microsoft's framework for multi-agent workflows, built as the successor to AutoGen and Semantic Kernel.
+- [Agentic AI and Multiagentic: Are We Reinventing the Wheel?](https://arxiv.org/abs/2506.01463) by Vicent Botti (2025): Argues that LLM-based agent systems should draw on established multi-agent systems research instead of reinventing it under new names.
  
 ## Prompt Engineering
 
